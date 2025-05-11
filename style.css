@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: rgb(125, 128, 125);
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+#clock {
+  font-size: 5rem;
+}
